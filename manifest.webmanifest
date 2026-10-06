@@ -1,0 +1,10 @@
+{
+  "name": "英语小星球",
+  "short_name": "英语小星球",
+  "description": "孩子每天学英语，打卡攒星星",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8e9",
+  "theme_color": "#fff8e9",
+  "icons": [{ "src": "./avatar.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
